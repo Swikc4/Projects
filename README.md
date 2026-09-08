@@ -27,7 +27,7 @@ Team database project modeling artists, tracks, playlists, and playlist-track re
 - Tested the query module independently with an in-memory SQLite database.
 - Contributed through a Git branch and pull-request workflow.
 
-[View my merged project contribution](https://github.com/ProfessorPatrickSlatraigh/mp02-music-starter/pull/29)
+[View my project contribution](https://github.com/ProfessorPatrickSlatraigh/mp02-music-starter/pull/29)
 
 ### Press Release to Plot — Industry Comparison
 **Python · REST APIs · Folium · Git/GitHub**
