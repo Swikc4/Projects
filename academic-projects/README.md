@@ -4,9 +4,9 @@ These projects were completed as part of coursework at Baruch College. Each proj
 
 ## NYC Motor Vehicle Collision Fatality Analysis
 
-[View repository](https://github.com/Swikc4/nyc-collision-fatality-analysis)
+[View repository](https://github.com/Swikc4/NYC-Motor-Vehicle-Collision-Fatality-Analysis)
 
-Python, pandas, scikit-learn, logistic regression, data cleaning, feature engineering, and statistical interpretation.
+Python, pandas, scikit-learn, binary logistic regression, data cleaning, feature engineering, and statistical interpretation.
 
 ## Music Listening Database Application Contribution
 
