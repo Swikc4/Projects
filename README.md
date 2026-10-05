@@ -1,6 +1,6 @@
 # Project Portfolio
 
-A portfolio of academic and independent projects by **Swikriti KC**, a Computer Information Systems student at Baruch College concentrating in Data Analytics and minoring in Mathematics.
+I'm a Computer Information Systems student at Baruch College, concentrating in Data Analytics and minoring in Mathematics. This is where I keep my academic projects and club work.
 
 ## Academic Projects
 
@@ -10,7 +10,7 @@ My coursework projects are organized here:
 
 These include:
 
-* [NYC Motor Vehicle Collision Fatality Analysis](https://github.com/Swikc4/nyc-collision-fatality-analysis)
+* [NYC Motor Vehicle Collision Fatality Analysis](https://github.com/Swikc4/NYC-Motor-Vehicle-Collision-Fatality-Analysis)
 * [Music Listening Database Application Contribution](https://github.com/Swikc4/music-listening-database-contribution)
 * [Press Release to Plot Industry Comparison](https://github.com/Swikc4/press-release-to-plot)
 * [SQLite Database Design](https://github.com/Swikc4/sqlite-database-design)
